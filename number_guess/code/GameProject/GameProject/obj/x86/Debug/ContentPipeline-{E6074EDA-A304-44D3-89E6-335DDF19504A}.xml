@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>openingscreen.png</Source>
+      <Name>openingscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\openingscreen.xnb</Output>
+      <Time>2013-10-26T11:49:13.9124164-04:00</Time>
+    </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2013-10-26T12:56:54.8869534-04:00</Time>
+    </Item>
+    <Item>
+      <Source>eight.png</Source>
+      <Name>eight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\eight.xnb</Output>
+      <Time>2013-10-26T13:16:40.704524-04:00</Time>
+    </Item>
+    <Item>
+      <Source>five.png</Source>
+      <Name>five</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\five.xnb</Output>
+      <Time>2013-10-26T13:32:31.884749-04:00</Time>
+    </Item>
+    <Item>
+      <Source>four.png</Source>
+      <Name>four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\four.xnb</Output>
+      <Time>2013-10-26T13:32:31.9127518-04:00</Time>
+    </Item>
+    <Item>
+      <Source>nine.png</Source>
+      <Name>nine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\nine.xnb</Output>
+      <Time>2013-10-26T13:32:31.914752-04:00</Time>
+    </Item>
+    <Item>
+      <Source>one.png</Source>
+      <Name>one</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\one.xnb</Output>
+      <Time>2013-10-26T13:32:31.9157521-04:00</Time>
+    </Item>
+    <Item>
+      <Source>seven.png</Source>
+      <Name>seven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\seven.xnb</Output>
+      <Time>2013-10-26T13:32:41.1716776-04:00</Time>
+    </Item>
+    <Item>
+      <Source>six.png</Source>
+      <Name>six</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\six.xnb</Output>
+      <Time>2013-10-26T13:32:41.1796784-04:00</Time>
+    </Item>
+    <Item>
+      <Source>three.png</Source>
+      <Name>three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\three.xnb</Output>
+      <Time>2013-10-26T13:32:41.1886793-04:00</Time>
+    </Item>
+    <Item>
+      <Source>two.png</Source>
+      <Name>two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\two.xnb</Output>
+      <Time>2013-10-26T13:32:41.1926797-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingeight.png</Source>
+      <Name>blinkingeight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingeight.xnb</Output>
+      <Time>2013-10-28T12:02:14.4568635-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingfive.png</Source>
+      <Name>blinkingfive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingfive.xnb</Output>
+      <Time>2013-10-28T12:02:14.4568635-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingfour.png</Source>
+      <Name>blinkingfour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingfour.xnb</Output>
+      <Time>2013-10-28T12:02:14.4668642-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingnine.png</Source>
+      <Name>blinkingnine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingnine.xnb</Output>
+      <Time>2013-10-28T12:02:14.4668642-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingone.png</Source>
+      <Name>blinkingone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingone.xnb</Output>
+      <Time>2013-10-28T12:02:14.4668642-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingseven.png</Source>
+      <Name>blinkingseven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingseven.xnb</Output>
+      <Time>2013-10-28T12:02:14.4668642-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingsix.png</Source>
+      <Name>blinkingsix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingsix.xnb</Output>
+      <Time>2013-10-28T12:02:14.4668642-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingthree.png</Source>
+      <Name>blinkingthree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingthree.xnb</Output>
+      <Time>2013-10-28T12:02:14.4768649-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingtwo.png</Source>
+      <Name>blinkingtwo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingtwo.xnb</Output>
+      <Time>2013-10-28T12:02:14.4768649-04:00</Time>
+    </Item>
+    <Item>
+      <Source>applause.wav</Source>
+      <Name>applause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\applause.xnb</Output>
+      <Time>2013-10-31T12:47:39.6216031-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-10-31T12:47:39.6216031-04:00</Time>
+    </Item>
+    <Item>
+      <Source>loser.wav</Source>
+      <Name>loser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\loser.xnb</Output>
+      <Time>2013-10-31T12:47:39.6216031-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E6074EDA-A304-44D3-89E6-335DDF19504A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\project C#\gameprogramming-required_assessment_materials-RequiredProjectMaterials\code\GameProject\GameProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-23T14:32:34.2417324-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
